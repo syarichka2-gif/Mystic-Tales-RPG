@@ -1,6 +1,6 @@
 [staff_charge]
 	#Base time in ticks it takes for one segment of a staff charge to recover.
-	staffChargeRate = 100
+	staffChargeRate = 120
 
 [soul_ward]
 	#Multiplier for physical damage taken while soul ward is active.
@@ -12,11 +12,11 @@
 	# Range: 0.0 ~ 1.0
 	soulWardMagic = 0.10000000149011612
 	#Base time in ticks it takes for one point of soul ward to recover.
-	soulWardRate = 100
+	soulWardRate = 120
 
 [malignant_aegis]
 	#Base time in ticks it takes for one point of malignant aegis to recover.
-	malignantAegisRate = 200
+	malignantAegisRate = 240
 
 [spirit]
 	#If set to true, any spirits dropped will simply take the form of an item.
